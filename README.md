@@ -11,5 +11,7 @@ Monitoring memory useage with the `free` command: https://linuxize.com/post/free
 
 Running a command on a remote machine via ssh: https://stackoverflow.com/questions/1041597/how-to-run-a-script-file-remotely-using-ssh
 
+Aliasing a custom command with `alias`: https://www.tecmint.com/create-alias-in-linux/
+
 ## Servers
 Using `rsync` command to send files to a remote server: https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
