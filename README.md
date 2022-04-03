@@ -17,3 +17,6 @@ Aliasing a custom command with `alias`: https://www.tecmint.com/create-alias-in-
 Using `rsync` command to send files to a remote server: https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
 
 Why using `AllowOverride All` isn't necessarily the best idea: https://ma.ttias.be/avoid-allowoverride-all-in-apache-to-limit-disk-io-access/
+
+## Pelican
+Adding Open Graph tags to a pelican blog: https://lizdenys.com/journal/articles/adding-open-graph-to-pelican.html
