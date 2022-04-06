@@ -13,6 +13,8 @@ Running a command on a remote machine via ssh: https://stackoverflow.com/questio
 
 Aliasing a custom command with `alias`: https://www.tecmint.com/create-alias-in-linux/
 
+Changing the shell in crontab: https://unix.stackexchange.com/questions/94456/how-to-change-cron-shell-sh-to-bash
+
 ## Servers
 Using `rsync` command to send files to a remote server: https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
 
